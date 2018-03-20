@@ -8,6 +8,6 @@
 2) Create a Unit Test for it.
 3) Visualize looped list as infinite scroll view in the new window like it showed below.
 
-<img scr = "scroll.gif" width="100">
+<img src="scroll.gif" width="400">
 
 All code must be optimal.
