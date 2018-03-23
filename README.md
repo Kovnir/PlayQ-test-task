@@ -4,9 +4,9 @@
 
 ## Task
 
-1) Create an algorithm to find the number of nodes in the list. After the search, all values should remain in the original state.
+1) Create an algorithm to find the number of nodes in the list. After the search, all values should remain in the original state. You don't have to modify Container class.
 2) Create a Unit Test for it.
-3) Visualize looped list as infinite scroll view in the new window as shown below.
+3) Visualize looped list as infinite scroll view in the new Editor Window as shown below.
 
 <img src="scroll.gif" width="400">
 
