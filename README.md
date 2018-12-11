@@ -4,10 +4,8 @@
 
 ## Task
 
-1) Create an algorithm to find the number of nodes in the list. After the search, all values should remain in the original state. You don't have to modify `Container` class.
+1) Create an algorithm to find the number of nodes in the list. After the search, all values should remain in the original state. You don't have to modify `Container` class. Take care about performance and memory allocation. Сode should be covered with comments.
 2) Create a Unit Test for it.
 3) Visualize looped list as infinite scroll view in the new [Editor Window](https://docs.unity3d.com/ScriptReference/EditorWindow.html) as shown below. `Create new` button should create new `Container` instance with random node count.
 
 <img src="scroll.gif" width="400">
-
-All code must be optimal.
