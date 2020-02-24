@@ -17,7 +17,6 @@ public class Container
     }
 
     private Node current;
-    private readonly int count;
     
     public Container(int count = 0)
     {
